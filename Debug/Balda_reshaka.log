@@ -1,0 +1,10 @@
+﻿  Balda_reshaka.cpp
+C:\Users\danek\Desktop\Прожэкты\Полезное\Balda_reshaka\Balda_reshaka.cpp(47,19): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+C:\Users\danek\Desktop\Прожэкты\Полезное\Balda_reshaka\Balda_reshaka.cpp(53,33): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+C:\Users\danek\Desktop\Прожэкты\Полезное\Balda_reshaka\Balda_reshaka.cpp(68,19): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+C:\Users\danek\Desktop\Прожэкты\Полезное\Balda_reshaka\Balda_reshaka.cpp(70,26): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+C:\Users\danek\Desktop\Прожэкты\Полезное\Balda_reshaka\Balda_reshaka.cpp(75,19): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+C:\Users\danek\Desktop\Прожэкты\Полезное\Balda_reshaka\Balda_reshaka.cpp(77,26): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+C:\Users\danek\Desktop\Прожэкты\Полезное\Balda_reshaka\Balda_reshaka.cpp(220,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danek\Desktop\Прожэкты\Полезное\Balda_reshaka\Balda_reshaka.cpp(255,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Balda_reshaka.vcxproj -> C:\Users\danek\Desktop\Прожэкты\Полезное\Balda_reshaka\Debug\Balda_reshaka.exe

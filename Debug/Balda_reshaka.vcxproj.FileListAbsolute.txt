@@ -1,0 +1,4 @@
+C:\Users\Папа\Desktop\Balda_reshaka\Debug\Balda_reshaka.exe
+C:\Users\danek\Desktop\Balda_reshaka\Debug\Balda_reshaka.exe
+C:\Users\danek\Desktop\Balda_reshaka\Debug\Balda_reshaka.pdb
+C:\Users\danek\Desktop\Прожэкты\Полезное\Balda_reshaka\Debug\Balda_reshaka.exe
